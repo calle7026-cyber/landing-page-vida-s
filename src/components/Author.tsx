@@ -15,7 +15,7 @@ export default function Author() {
                 </div>
                 <div className={styles.content}>
                     <span className="section-tag">SOBRE EL AUTOR</span>
-                    <h2>Andrés Diabetes control</h2>
+                    <h2>Chen Diabetes control</h2>
                     <p>Médico Especialista en Endocrinología y Nutrición con más de 15 años de experiencia ayudando a pacientes a controlar y prevenir la diabetes a través de la alimentación.</p>
                     <p>Graduado de la Universidad de Medicina con especialización en Endocrinología, ha dedicado su carrera a investigar la relación entre el índice glucémico de los alimentos y el control de la diabetes.</p>
                     <div className={styles.achievements}>
